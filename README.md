@@ -36,3 +36,14 @@ Write a JS function that takes one parameter and prints on two lines the type of
 •	If the parameter type is either string or number, print its value
 •	Otherwise, print the text 'Parameter is not suitable for printing'
 
+4.Town Info
+You will be given 3 parameters. The first parameter will be the name of the town (string), the second – the population (number), and the third – the area (number). 
+First, validate the input data – the town name must be at least 3 characters long, and the population and the area must be positive numbers. 
+•	If the town name is too short, print the following message:
+"Town name must be at least 3 characters!"
+•	If the population or the area is a negative number, print the following message:
+"{Population/Area} must be a positive number!"
+•	If all the data is valid, print it in the following format:
+"Town {town name} has population of {population} and area {area} square km."
+
+
