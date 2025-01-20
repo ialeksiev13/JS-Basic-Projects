@@ -46,4 +46,9 @@ First, validate the input data – the town name must be at least 3 characters l
 •	If all the data is valid, print it in the following format:
 "Town {town name} has population of {population} and area {area} square km."
 
+4.Calculator
+Write a function that receives 3 parameters: a number, an operator (string), and another number.
+The operator can be:  '+', '-', '/', '*'. Print the result of the calculation on the console formatted to the second decimal point.
+
+
 
