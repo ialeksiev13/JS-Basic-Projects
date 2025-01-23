@@ -67,5 +67,21 @@ You will receive 5 parameters to your function:
 Output
 •	As output you must print Peter`s total expenses for new equipment rounded to the second decimal point: "Gladiator expenses: {expenses} aureus"
 
-7. 
+7. Merge Arrays
+Write a function, which receives two string arrays and merges them into a third array.  
+•	If the index of the element is even, add into the third array the sum of both elements at that index
+•	If the index of the element is odd, add the concatenation of both elements at that index
+Input
+As input, you will receive two string arrays (with equal length).
+Output
+As output, you should print the resulting third array, each element separated by " - ".
+
+8. Add and Subtract
+Write a function, which changes the value of odd and even numbers in an array of numbers. 
+•	If the number is even - add to its value its index position
+•	If the number is odd - subtract to its value its index position
+Output
+On the first line print the newly modified array, on the second line print the sum of numbers from the original array, on the third line print the sum of numbers from the modified array.
+
+
 
