@@ -89,6 +89,16 @@ Note: Depending on the number of rotations, the first element goes to the end.
 Output
 Print the resulting array elements separated by a single space.
 
+10.Max Number
+Write a function to find all the top integers in an array. A top integer is an integer, which is bigger than all the elements to its right. 
+Output
+Print all top integers on the console, separated by a single space.
+
+11. Max Sequence of Equal Elements
+Write a function that finds the longest sequence of equal elements in an array of numbers. 
+If several longest sequences exist, print the leftmost one.
+
+
 
 
 
